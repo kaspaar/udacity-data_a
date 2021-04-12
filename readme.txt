@@ -8,4 +8,4 @@ Project 1 - Welcome to Nanodegree Program		Quick introductory task
 Project 2 - Introduction to Data Analysis		Exploratory Data Analysis relying mainly on Python and Pandas
 Project 3 - Practical Statistics			A/B tests, regression models, hypothesis testing, confidence, sampling
 Project 4 - Data Wrangling				Programmatical gathering, cleaning and storing data + visualisation
-Project 5 - Data Visualisation				Heavy with Seaborn and Matplotlib, outputting a visually clear presentation
+Project 5 - Data Visualisation				Heavy with Seaborn and Matplotlib, outputting a clear presentation
